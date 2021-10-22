@@ -1,0 +1,354 @@
+The constructed graph
+The index node0
+Edges
+edge from 0 to 1with weights0.333333333333333
+edge from 0 to 78with weights0.200000000000001
+
+The index node1
+Edges
+edge from 1 to 0with weights0.333333333333333
+edge from 1 to 2with weights0.499999999999993
+edge from 1 to 79with weights0.2
+
+The index node2
+Edges
+edge from 2 to 1with weights0.499999999999993
+edge from 2 to 3with weights0.999999999999972
+edge from 2 to 80with weights0.333333333333333
+
+The index node3
+Edges
+edge from 3 to 2with weights0.999999999999972
+edge from 3 to 4with weights1
+edge from 3 to 81with weights0.5
+
+The index node4
+Edges
+edge from 4 to 3with weights1
+edge from 4 to 5with weights1
+edge from 4 to 82with weights0.333333333333333
+
+The index node5
+Edges
+edge from 5 to 4with weights1
+edge from 5 to 6with weights0.999999999999943
+edge from 5 to 83with weights0.499999999999993
+
+The index node6
+Edges
+edge from 6 to 5with weights0.999999999999943
+edge from 6 to 7with weights1
+edge from 6 to 84with weights1
+
+The index node7
+Edges
+edge from 7 to 6with weights1
+edge from 7 to 8with weights1
+edge from 7 to 85with weights0.606060606060604
+
+The index node8
+Edges
+edge from 8 to 7with weights1
+edge from 8 to 9with weights∞
+edge from 8 to 86with weights∞
+
+The index node9
+Edges
+edge from 9 to 8with weights∞
+edge from 9 to 10with weights1
+edge from 9 to 87with weights1
+
+The index node10
+Edges
+edge from 10 to 9with weights1
+edge from 10 to 11with weights5.44392624279477E+15
+edge from 10 to 88with weights1.00000000000003
+
+The index node11
+Edges
+edge from 11 to 10with weights5.44392624279477E+15
+edge from 11 to 12with weights5.44392624279462E+15
+edge from 11 to 89with weights1
+
+The index node12
+Edges
+edge from 12 to 11with weights5.44392624279462E+15
+edge from 12 to 13with weights5.44392624279446E+15
+edge from 12 to 90with weights0.999999999999972
+
+The index node13
+Edges
+edge from 13 to 12with weights5.44392624279446E+15
+edge from 13 to 14with weights∞
+edge from 13 to 91with weights∞
+
+The index node14
+Edges
+edge from 14 to 13with weights∞
+edge from 14 to 15with weights∞
+edge from 14 to 92with weights∞
+
+The index node15
+Edges
+edge from 15 to 14with weights∞
+edge from 15 to 16with weights2.01626897881274E+16
+edge from 15 to 93with weights1.23456790123452
+
+The index node16
+Edges
+edge from 16 to 15with weights2.01626897881274E+16
+edge from 16 to 17with weights4.34782608695618
+edge from 16 to 94with weights1.72413793103436
+
+The index node17
+Edges
+edge from 17 to 16with weights4.34782608695618
+edge from 17 to 18with weights2.85714285714267
+edge from 17 to 95with weights1.00000000000003
+
+The index node18
+Edges
+edge from 18 to 17with weights2.85714285714267
+edge from 18 to 19with weights1.29870129870128
+edge from 18 to 96with weights3.33333333333321
+
+The index node19
+Edges
+edge from 19 to 18with weights1.29870129870128
+edge from 19 to 20with weights1
+edge from 19 to 97with weights8.16588936419192E+15
+
+The index node20
+Edges
+edge from 20 to 19with weights1
+edge from 20 to 21with weights1
+edge from 20 to 98with weights14.2857142857156
+
+The index node21
+Edges
+edge from 21 to 20with weights1
+edge from 21 to 22with weights1.07526881720429
+edge from 21 to 99with weights1.00000000000003
+
+The index node22
+Edges
+edge from 22 to 21with weights1.07526881720429
+edge from 22 to 23with weights1.00000000000003
+edge from 22 to 100with weights14.2857142857157
+
+The index node23
+Edges
+edge from 23 to 22with weights1.00000000000003
+edge from 23 to 24with weights14.2857142857157
+edge from 23 to 101with weights11.1111111111142
+
+The index node24
+Edges
+edge from 24 to 23with weights14.2857142857157
+edge from 24 to 25with weights1.16279069767444
+edge from 24 to 102with weights0.999999999999972
+
+The index node25
+Edges
+edge from 25 to 24with weights1.16279069767444
+edge from 25 to 26with weights0.499999999999993
+edge from 25 to 103with weights0.216919739696312
+
+The index node26
+Edges
+edge from 26 to 25with weights0.499999999999993
+edge from 26 to 27with weights0.110497237569061
+edge from 26 to 104with weights0.425531914893613
+
+The index node27
+Edges
+edge from 27 to 26with weights0.110497237569061
+edge from 27 to 28with weights0.917431192660524
+edge from 27 to 105with weights1.29870129870133
+
+The index node28
+Edges
+edge from 28 to 27with weights0.917431192660524
+edge from 28 to 29with weights0.221729490022173
+edge from 28 to 106with weights0.296735905044512
+
+The index node29
+Edges
+edge from 29 to 28with weights0.221729490022173
+edge from 29 to 30with weights1.42857142857145
+edge from 29 to 107with weights1.88679245283008
+
+The index node30
+Edges
+edge from 30 to 29with weights1.42857142857145
+edge from 30 to 31with weights0.606060606060604
+edge from 30 to 108with weights0.63291139240507
+
+The index node31
+Edges
+edge from 31 to 30with weights0.606060606060604
+edge from 31 to 32with weights0.130718954248366
+edge from 31 to 109with weights1.96078431372552
+
+The index node32
+Edges
+edge from 32 to 31with weights0.130718954248366
+edge from 32 to 33with weights0.25
+edge from 32 to 110with weights0.188679245283018
+
+The index node33
+Edges
+edge from 33 to 32with weights0.25
+edge from 33 to 34with weights0.33333333333333
+edge from 33 to 111with weights0.25
+
+The index node34
+Edges
+edge from 34 to 33with weights0.33333333333333
+edge from 34 to 35with weights5.44392624279441E+16
+edge from 34 to 112with weights3.33333333333321
+
+The index node35
+Edges
+edge from 35 to 34with weights5.44392624279441E+16
+edge from 35 to 36with weights0.370370370370372
+edge from 35 to 113with weights1
+
+The index node36
+Edges
+edge from 36 to 35with weights0.370370370370372
+edge from 36 to 37with weights4.97920083182438E+15
+edge from 36 to 114with weights0.30487804878049
+
+The index node37
+Edges
+edge from 37 to 36with weights4.97920083182438E+15
+edge from 37 to 38with weights0.632911392405058
+edge from 37 to 115with weights0.323624595469255
+
+The index node38
+Edges
+edge from 38 to 37with weights0.632911392405058
+edge from 38 to 39with weights0.218340611353711
+edge from 38 to 116with weights0.934579439252317
+
+The index node39
+Edges
+edge from 39 to 38with weights0.218340611353711
+edge from 39 to 40with weights0.341296928327644
+edge from 39 to 117with weights0.467289719626165
+
+The index node40
+Edges
+edge from 40 to 39with weights0.341296928327644
+edge from 40 to 41with weights0.341296928327644
+edge from 40 to 118with weights0.934579439252317
+
+The index node41
+Edges
+edge from 41 to 40with weights0.341296928327644
+edge from 41 to 42with weights0.245700245700246
+edge from 41 to 119with weights0.179856115107914
+
+The index node42
+Edges
+edge from 42 to 41with weights0.245700245700246
+edge from 42 to 43with weights0.140056022408964
+edge from 42 to 120with weights0.2
+
+The index node43
+Edges
+edge from 43 to 42with weights0.140056022408964
+edge from 43 to 44with weights0.781249999999999
+edge from 43 to 121with weights2.04081632653057
+
+The index node44
+Edges
+edge from 44 to 43with weights0.781249999999999
+edge from 44 to 45with weights1
+edge from 44 to 122with weights0.241545893719806
+
+The index node45
+Edges
+edge from 45 to 44with weights1
+edge from 45 to 46with weights0.333333333333333
+edge from 45 to 123with weights0.145772594752186
+
+The index node46
+Edges
+edge from 46 to 45with weights0.333333333333333
+edge from 46 to 47with weights0.333333333333333
+edge from 46 to 124with weights0.632911392405058
+
+The index node47
+Edges
+edge from 47 to 46with weights0.333333333333333
+edge from 47 to 48with weights0.250000000000002
+edge from 47 to 125with weights1.53846153846159
+
+The index node48
+Edges
+edge from 48 to 47with weights0.250000000000002
+edge from 48 to 49with weights5.85368413203718E+15
+edge from 48 to 126with weights1.07526881720429
+
+The index node49
+Edges
+edge from 49 to 48with weights5.85368413203718E+15
+edge from 49 to 50with weights1.2097613872877E+16
+edge from 49 to 127with weights0.740740740740744
+
+The index node50
+Edges
+edge from 50 to 49with weights1.2097613872877E+16
+edge from 50 to 51with weights0.999999999999972
+edge from 50 to 128with weights1
+
+The index node51
+Edges
+edge from 51 to 50with weights0.999999999999972
+edge from 51 to 52with weights1.3497337792053E+16
+edge from 51 to 129with weights0.82644628099175
+
+The index node52
+Edges
+edge from 52 to 51with weights1.3497337792053E+16
+edge from 52 to 53with weights1.63317787283838E+16
+edge from 52 to 130with weights1
+
+The index node53
+Edges
+edge from 53 to 52with weights1.63317787283838E+16
+edge from 53 to 54with weights1.2097613872877E+16
+edge from 53 to 131with weights0.740740740740744
+
+The index node54
+Edges
+edge from 54 to 53with weights1.2097613872877E+16
+edge from 54 to 55with weights0.999999999999972
+edge from 54 to 132with weights0.999999999999971
+
+The index node55
+Edges
+edge from 55 to 54with weights0.999999999999972
+edge from 55 to 56with weights1
+edge from 55 to 133with weights0.304878048780488
+
+The index node56
+Edges
+edge from 56 to 55with weights1
+edge from 56 to 57with weights1
+edge from 56 to 134with weights1
+
+The index node57
+Edges
+edge from 57 to 56with weights1
+edge from 57 to 58with weights1.00000000000003
+edge from 57 to 135with weights0.377358490566041
+
+The index node58
+Edges
+edge from 58 to 57with weights1.00000000000003
+edge from 58 to 59with weights0.999999999999972
+edge from 58 to 136with weights0.999999999999971
+
